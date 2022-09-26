@@ -1,5 +1,6 @@
 # GIF.
-![NLW](https://user-images.githubusercontent.com/112123706/192367140-acc53476-a57c-4271-a0f0-8bcb8b3c14e6.gif)
+![Animação](https://user-images.githubusercontent.com/112123706/192395597-4f3519c7-20df-4c5d-a9e2-a56799aac484.gif)
+
 
 # NLW-Rocketseat.
 
