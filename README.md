@@ -1,5 +1,5 @@
 # NLW-Rocketseat.
-Projeto NLW da Rocketseat.
+Projeto NLW da Rocketseat.<br>
 Optei por algumas mudanças do projeto original e deixei um pouco mais a ver comigo. :D
 
 # GIF:
