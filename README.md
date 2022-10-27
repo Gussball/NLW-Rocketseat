@@ -3,7 +3,11 @@ Projeto NLW da Rocketseat.<br>
 Optei por algumas mudanças do projeto original e deixei um pouco mais a ver comigo. :D
 <hr>
 
-Link do projeto: https://gussball.github.io/NLW-Rocketseat/
+# Tecnologias usadas:
+HTML5 e CSS3.
+
+# Link do projeto: 
+https://gussball.github.io/NLW-Rocketseat/
 <hr>
 
 # GIF:
