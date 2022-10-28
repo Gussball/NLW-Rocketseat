@@ -1,6 +1,6 @@
-# NLW-Rocketseat. 💻
-Projeto NLW da Rocketseat.<br>
-Optei por algumas mudanças do projeto original e deixei um pouco mais a ver comigo. :D
+# Projeto:
+Projeto NLW da Rocketseat inicialmente era pro mundo gamer com jogos e streamers favoritos, porém depois de terminar o projeto eu optei por deixar com o álbum, filmes e séries que mais curto.
+
 
 # Tecnologias usadas:
 HTML5 e CSS3.
