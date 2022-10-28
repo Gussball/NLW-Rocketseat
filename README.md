@@ -1,5 +1,5 @@
 # Projeto:
-Projeto NLW da Rocketseat inicialmente era pro mundo gamer com jogos e streamers favoritos, porém depois de terminar o projeto eu optei por deixar com o álbum, filmes e séries que mais curto.
+Projeto NLW da Rocketseat inicialmente era pro mundo gamer com jogos e streamers favoritos, porém depois de terminar o projeto eu optei por deixar com os álbuns, filmes e séries que mais curto.
 
 
 # Tecnologias usadas:
