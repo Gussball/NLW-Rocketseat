@@ -3,7 +3,8 @@ Projeto NLW da Rocketseat inicialmente era pro mundo gamer com jogos e streamers
 
 
 # Tecnologias usadas:
-HTML5 e CSS3.
+- HTML5
+- CSS3.
 
 # Link do projeto: 
 https://gussball.github.io/NLW-Rocketseat/
